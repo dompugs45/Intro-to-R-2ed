@@ -1,5 +1,8 @@
 # R script to accompany Intro to R
+# Written by Troy Adair
+
 # Copy for Dominic Puglisi 2020
+
 ######################################################
 
 # You will see that you can put non-executable "comment" lines
